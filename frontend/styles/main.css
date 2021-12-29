@@ -61,28 +61,28 @@ a {
   font-family: "Roboto light";
   font-style: normal;
   font-weight: 300;
-  src: url(../../../frontend/styles/fonts/Roboto/Roboto-Light.ttf) format("truetype");
+  src: url(https://lizavetay.github.io/my-journey-journal/frontend/styles/fonts/Roboto/Roboto-Light.ttf) format("truetype");
 }
 
 @font-face {
   font-family: "Roboto regular";
   font-style: normal;
   font-weight: 400;
-  src: url(../../../frontend/styles/fonts/Roboto/Roboto-Regular.ttf) format("truetype");
+  src: url(https://lizavetay.github.io/my-journey-journal/frontend/styles/fonts/Roboto/Roboto-Regular.ttf) format("truetype");
 }
 
 @font-face {
   font-family: "Roboto bold";
   font-style: normal;
   font-weight: 700;
-  src: url(../../../frontend/styles/fonts/Roboto/Roboto-Bold.ttf) format("truetype");
+  src: url(https://lizavetay.github.io/my-journey-journal/frontend/styles/fonts/Roboto/Roboto-Bold.ttf) format("truetype");
 }
 
 @font-face {
   font-family: "Lobster regular";
   font-style: normal;
   font-weight: 400;
-  src: url(../../../frontend/styles/fonts/Lobster/Lobster-Regular.ttf) format("truetype");
+  src: url(https://lizavetay.github.io/my-journey-journal/frontend/styles/fonts/Lobster/Lobster-Regular.ttf) format("truetype");
 }
 
 body {
@@ -95,7 +95,7 @@ body {
       -ms-flex-direction: column;
           flex-direction: column;
   height: 100vh;
-  background-image: url(../../../frontend/images/backgrounds/jpegJpg/LoadingPage.jpeg);
+  background-image: url(https://lizavetay.github.io/my-journey-journal/frontend/images/backgrounds/jpegJpg/LoadingPage.jpeg);
   background-repeat: no-repeat;
   background-position: top;
   background-size: cover;
@@ -110,7 +110,7 @@ body .content {
 
 .mainBody {
   background-color: lightblue;
-  background-image: url(../../../frontend/images/backgrounds/png/sky.png);
+  background-image: url(https://lizavetay.github.io/my-journey-journal/frontend/images/backgrounds/png/sky.png);
   background-repeat: no-repeat;
   background-position: top;
   background-size: cover;
